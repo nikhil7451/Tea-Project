@@ -643,4 +643,12 @@ a {
   color: var(--primarycolor);
 }
 
+.nikhil {
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--primarycolor);
+  letter-spacing: var(--letterspacing);
+  font-weight: bold;
+}
+
 /*end  footer */
